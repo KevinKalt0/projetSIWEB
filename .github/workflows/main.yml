@@ -11,6 +11,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: bakitheglapper
-        password: G^FYJLIqDAJp(WGybcdY
+        username: sitekevin1
+        password: zaG8jKsGefiGM2O8#M!S
         server-dir : public_html/
