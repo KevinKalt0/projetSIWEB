@@ -12,5 +12,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: bakitheglapper
-        password: G^FYJLIqDAJp(WGybcdY
+        password: bakibakibaki
         server-dir : public_html/
